@@ -13,7 +13,7 @@ metadata:
   - Language
   - Genre
 featured:
-  - https://api.dc.library.northwestern.edu/api/v2/works/9a291cdb-703f-4d6d-9fd9-79c707a9a1e2?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/a30c227a-eb2b-4083-9e5f-5f697a6a58b7?as=iiif
   - https://api.dc.library.northwestern.edu/api/v2/works/c26591b2-994b-4ba3-a87e-9124419fa91b?as=iiif
   - https://api.dc.library.northwestern.edu/api/v2/works/d4c62d7f-f50d-4b29-85e0-5d380675bec7?as=iiif
   - https://iiif.vam.ac.uk/collections/O74660/manifest.json
